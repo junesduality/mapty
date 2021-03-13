@@ -1,0 +1,39 @@
+- - PROJECT PLANNING - -
+1). USER STORIES (High level overview)
+  This is a description of the app's functionality from the user's perspective. All user stories put together describe the entire app.
+2). FEATURES 
+3). FLOWCHART 
+  WHAT we will build.
+4). ARCHITECTURE
+  HOW we will build it. There are a plethora of ways to go about building an app, so having a set-in-stone plan prevents you from creating a mess of unorganized code.
+5). DEVELOPMENT STEP (The implementation using code).
+
+- - USER STORIES - -
+  Common Format: As a [type of user], I want [an action] so that [a benefit]
+    * Answers the questions who, what, and why
+    e.g.
+       As a user, I want to log my running workouts with location, distance, time, pace, and steps/minute, so I can keep a log of all my running.
+
+       As a user I want to log my cycling workouts with location, distance, time, speed, and elevation gain, so I can keep a lot of all my cycling.
+
+       As a user, I want to see all my workouts at a glance, so I can easily track my progress over time.
+
+       As a user, I want to also see my workouts on a mpa, so I can easily check where I work out the most.
+
+       As a user, I want to see all my workouts when I leave the app and come back later, so that I can keep using their app over time.
+
+- - FEATURES - -
+  1). A map where user clicks to add new workout (best way to get location coordinates)
+  2). Geolocation to display map at current location
+  3). Form to input distance, time, pace, steps/minute
+  4). Form to input distance, time, speed, elevation
+  5). Display all workouts in a list
+  6). Display all workous on the map
+  7). Store workout data in the browser
+  8). On page load, read the saved data from local storage and display
+  9). Move map to workout location on click
+- - FLOWCHART - - 
+  It's all my notebook 
+
+- - ARCHITECTURE - - 
+  This doesn't need to be completely set up in the beginning, since later down the line it may change.
